@@ -36,11 +36,11 @@ Developed for the *Introdução à Engenharia e Ciência de Dados* course at the
 
    ---
 
-### 2. Descrição Otimizada para o seu Currículo (em Português)
+### 2. Descrição (em Português)
 
 Pode substituir a descrição genérica no seu currículo por esta, que reflete exatamente as ferramentas utilizadas no script:
 
-*   **Sistema Integrado de Gestão e Análise de Dados de Oficinas** | *Python, SQLite3, Pandas, NumPy*[cite: 1]
-    *   Desenvolveu um pipeline **ETL** completo em **Python** para integração de dados multi-fonte (**JSON** e **CSV**) em base de dados relacional **SQLite3**[cite: 1].
-    *   Implementou algoritmos em **NumPy** para limpeza de dados, imputação de valores ausentes e tratamento de *outliers* ($\mu + 2\sigma$)[cite: 1].
-    *   Criou um motor de regras de negócio em **Pandas** para predição automática de revisões mecânicas e geração de relatórios estatísticos por período[cite: 1].
+*   **Sistema Integrado de Gestão e Análise de Dados de Oficinas** | *Python, SQLite3, Pandas, NumPy*
+    *   Desenvolveu um pipeline **ETL** completo em **Python** para integração de dados multi-fonte (**JSON** e **CSV**) em base de dados relacional **SQLite3**.
+    *   Implementou algoritmos em **NumPy** para limpeza de dados, imputação de valores ausentes e tratamento de *outliers* ($\mu + 2\sigma$).
+    *   Criou um motor de regras de negócio em **Pandas** para predição automática de revisões mecânicas e geração de relatórios estatísticos por período.
